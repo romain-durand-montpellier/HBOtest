@@ -5,5 +5,13 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static void outBlahBlah() {
+		System.out.println("Blah");
+		System.out.println("Blah");
+		System.out.println("Blah");
+		System.out.println("Blah");
+		System.out.println("Blah");
+	}
 
 }
