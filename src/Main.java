@@ -14,4 +14,11 @@ public class Main {
 		System.out.println("Blah");
 	}
 
+public static void outHello() {
+	System.out.println("Hello");
+}
+
+public static void outAuRevoir() {
+	System.out.println("AuRevoir");
+}
 }
